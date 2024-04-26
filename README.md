@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drlnbnntt
-- 👀 I’m interested in ... Sitecore development, Python, C++, HTML, CSS and Javascript
-- 🌱 I’m currently learning ... CSS
+- 👀 I’m interested in ... Front end Developer, Sitecore development, HTML, CSS and Javascript, Python, C#, C++ 
+- 🌱 I’m currently learning ... HTML, CSS
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... drlnbnntt@me.com
 
